@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Rem Lampa	rem@yng.at	@iBLEEDfilm
 
 # THANKS
 
